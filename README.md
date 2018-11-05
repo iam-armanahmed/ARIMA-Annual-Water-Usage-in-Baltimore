@@ -1,4 +1,4 @@
-# Monthly Boston armed robberies
+# Annual water usage prediction
 
 ### Problem Statement
 Predict annual water usage in Baltimore. The dataset consists of annual water usage in Baltimore from 1885 to 1963. The values are in the units of liters per capita per day. <br>
