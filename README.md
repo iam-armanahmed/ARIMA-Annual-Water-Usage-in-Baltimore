@@ -6,5 +6,5 @@ Data Source : [Datamarket](https://datamarket.com/data/set/22sl/baltmore-city-an
 
 ![Dataset Image](https://github.com/iam-armanahmed/ARIMA-Annual-Water-Usage-in-Baltimore/blob/master/Images/data.jpg)
 
-## Prediction Results Using ARIMA(12,1,1)
+## Prediction Results from year 1954 to 1963 Using ARIMA(12,1,1)
 ![Final Prediction Result](https://github.com/iam-armanahmed/ARIMA-Annual-Water-Usage-in-Baltimore/blob/master/Images/Results.jpg)
